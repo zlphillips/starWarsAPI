@@ -1,0 +1,89 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1070&q=80');
+    background-color:#000000;
+    background-size: cover;
+}
+
+.starWarsLogo{
+    opacity: 100%;
+    background-color: transparent;
+}
+.introSection{
+    position: relative;
+    top: 15px;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+#executor{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#sentinalClassLandingCraft{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#deathStar{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#millenniumFalcon{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#yWing{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#xWing{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#tieAdvancedX1{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+}
+#slave1{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+} 
+#imperialShuttle{
+    font-size: 12px;
+    z-index: 2;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    position: relative;
+    text-align: right; 
+} 
