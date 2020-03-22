@@ -10,80 +10,24 @@ body {
 }
 .introSection{
     position: relative;
-    top: 15px;
+    top: 5px;
     font-family: 'Orbitron', sans-serif;
     color: #ffffff;
     text-align: center;
 }
-#executor{
-    font-size: 12px;
+.container{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 14px;
     z-index: 2;
     font-family: 'Orbitron', sans-serif;
     color: #ffffff;
     position: relative;
-    text-align: right; 
+    text-align: left;
 }
-#sentinalClassLandingCraft{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
+#bankingClanFrigate{
     position: relative;
-    text-align: right; 
+    left: 400px;
 }
-#deathStar{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-}
-#millenniumFalcon{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-}
-#yWing{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-}
-#xWing{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-}
-#tieAdvancedX1{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-}
-#slave1{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-} 
-#imperialShuttle{
-    font-size: 12px;
-    z-index: 2;
-    font-family: 'Orbitron', sans-serif;
-    color: #ffffff;
-    position: relative;
-    text-align: right; 
-} 
+
