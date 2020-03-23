@@ -8,7 +8,7 @@ fetch('https://swapi.co/api/starships/')
     for (s of ships){
         if (s.name === 'Executor'){
         let listItem = document.createElement('ul');
-        listItem.innerHTML = '<p>' + ' Ship Class: ' + s.starship_class + ' Number of Crew: '+ s.crew +' Number of Passengers: '+ s.passengers + '</p>';
+        listItem.innerHTML = '<p>' +  ' Ship Class: ' + s.starship_class + ' Number of Crew: '+ s.crew +' Number of Passengers: '+ s.passengers + '</p>';
         executor.appendChild(listItem);}
         if (s.name === 'Sentinel-class landing craft'){
           let listItem = document.createElement('ul');

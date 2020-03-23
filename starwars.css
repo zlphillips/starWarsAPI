@@ -17,7 +17,7 @@ body {
 }
 .container{
     padding: 0;
-    margin: 0;
+    margin: 0px;
     border: 0;
     font-size: 14px;
     z-index: 2;
@@ -30,4 +30,336 @@ body {
     position: relative;
     left: 400px;
 }
-
+.executorText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#executor:hover .executorText{
+    opacity: 1;
+    text-align: center;
+}
+.sentinalClassLandingCraftText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#sentinalClassLandingCraft:hover .sentinalClassLandingCraftText{
+    opacity: 1;
+    text-align: center;
+}
+.deathStarText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#deathStar:hover .deathStarText{
+    opacity: 1;
+    text-align: center;
+}
+.millenniumFalconText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#millenniumFalcon:hover .millenniumFalconText{
+    opacity: 1;
+    text-align: center;
+}
+.yWingText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#yWing:hover .yWingText{
+    opacity: 1;
+    text-align: center;
+}
+.xWingText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#xWing:hover .xWingText{
+    opacity: 1;
+    text-align: center;
+}
+.slave1Text{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#slave1:hover .slave1Text{
+    opacity: 1;
+    text-align: center;
+}
+.tieAdvancedX1Text{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#tieAdvancedX1:hover .tieAdvancedX1Text{
+    opacity: 1;
+    text-align: center;
+}
+.imperialShuttleText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#imperialShuttle:hover .imperialShuttleText{
+    opacity: 1;
+    text-align: center;
+}
+.ef76NebulonBEscortFrigateText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#ef76NebulonBEscortFrigate:hover .ef76NebulonBEscortFrigateText{
+    opacity: 1;
+    text-align: center;
+}
+.calamariCruiserText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#calamariCruiser:hover .calamariCruiserText{
+    opacity: 1;
+    text-align: center;
+}
+.aWingText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#aWing:hover .aWingText{
+    opacity: 1;
+    text-align: center;
+}
+.bWingText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#bWing:hover .bWingText{
+    opacity: 1;
+    text-align: center;
+}
+.republicCruiserText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#republicCruiser:hover .republicCruiserText{
+    opacity: 1;
+    text-align: center;
+}
+.nabooFighterText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#nabooFighter:hover .nabooFighterText{
+    opacity: 1;
+    text-align: center;
+}
+.nabooRoyalStarshipText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#nabooRoyalStarship:hover .nabooRoyalStarshipText{
+    opacity: 1;
+    text-align: center;
+}
+.scimitarText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#scimitar:hover .scimitarText{
+    opacity: 1;
+    text-align: center;
+}
+.jTypeDiplomaticBargeText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#jTypeDiplomaticBarge:hover .jTypeDiplomaticBargeText{
+    opacity: 1;
+    text-align: center;
+}
+.aa9CoruscantFreighterText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#aa9CoruscantFreighter:hover .aa9CoruscantFreighterText{
+    opacity: 1;
+    text-align: center;
+}
+.jediStarfighterText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#jediStarfighter:hover .jediStarfighterText{
+    opacity: 1;
+    text-align: center;
+}
+.hTypeNubianYachtText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#hTypeNubianYacht:hover .hTypeNubianYachtText{
+    opacity: 1;
+    text-align: center;
+}
+.starDestroyerText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#starDestroyer:hover .starDestroyerText{
+    opacity: 1;
+    text-align: center;
+}
+.tradeFederationCruiserText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#tradeFederationCruiser:hover .tradeFederationCruiserText{
+    opacity: 1;
+    text-align: center;
+}
+.thetaClassT2CShuttleText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#thetaClassT2CShuttle:hover .thetaClassT2CShuttleText{
+    opacity: 1;
+    text-align: center;
+}
+.t70XWingFighterText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#t70XWingFighter:hover .t70XWingFighterText{
+    opacity: 1;
+    text-align: center;
+}
+.rebelTransportText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#rebelTransport:hover .rebelTransportText{
+    opacity: 1;
+    text-align: center;
+}
+.droidControlShipText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#droidControlShip:hover .droidControlShipText{
+    opacity: 1;
+    text-align: center;
+}
+.republicAssaultShipText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#republicAssaultShip:hover .republicAssaultShipText{
+    opacity: 1;
+    text-align: center;
+}
+.solarSailerText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#solarSailer:hover .solarSailerText{
+    opacity: 1;
+    text-align: center;
+}
+.republicAttackCruiserText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#republicAttackCruiser:hover .republicAttackCruiserText{
+    opacity: 1;
+    text-align: center;
+}
+.nabooStarSkiffText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#nabooStarSkiff:hover .nabooStarSkiffText{
+    opacity: 1;
+    text-align: center;
+}
+.jediInterceptorText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#jediInterceptor:hover .jediInterceptorText{
+    opacity: 1;
+    text-align: center;
+}
+.arc170Text{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#arc170:hover .arc170Text{
+    opacity: 1;
+    text-align: center;
+}
+.belbullab22StarfighterText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#belbullab22Starfighter:hover .belbullab22StarfighterText{
+    opacity: 1;
+    text-align: center;
+}
+.vWingText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#vWing:hover .vWingText{
+    opacity: 1;
+    text-align: center;
+}
+.cr90CorvetteText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#cr90Corvette:hover .cr90CorvetteText{
+    opacity: 1;
+    text-align: center;
+}
+.bankingClanFrigateText{
+    color: #FFE81F;
+    text-align: center;
+    opacity: 0;
+}
+#bankingClanFrigate:hover .bankingClanFrigateText{
+    opacity: 1;
+    text-align: center;
+}
